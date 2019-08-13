@@ -1,0 +1,2 @@
+[global.databases.hero]
+url = "mysql://rs:123456@localhost/hero"
